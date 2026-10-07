@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=PASTE_YOUR_GOOGLE_FORM_LINK_HERE">
+  <script>
+    window.location.replace("PASTE_YOUR_GOOGLE_FORM_LINK_HERE");
+  </script>
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting to Spikeball Club form...</p>
+</body>
+</html>
